@@ -1,6 +1,18 @@
-- 👋 Hi, I’m @asgaurav9
-- 👀 I’m interested in python...
-- 🌱 I’m currently python ...
-- 💞️ I’m looking to collaborate Artifical Intelligence...
-- 📫 How to reach me 
-Mail I'd- asgaurav9@gmail.com ..
+Hi, I’m @asgaurav9, a Python developer specializing in artificial intelligence and machine learning solutions. I have a solid foundation in Python development, data science, and AI/ML technologies. I am passionate about solving real-world problems through innovative approaches and always eager to collaborate on projects that have a meaningful impact.
+
+Key skills include:
+
+Python, AI/ML, Data Science, Git, SQL, TensorFlow, Power BI 
+
+AWS, GCP, Gen AI, LLM (Large Language Models), LoRA (Low-Rank Adaptation), SVM (Support Vector Machines)
+
+Building and deploying machine learning models
+
+Data analysis and visualization
+
+I am particularly interested in contributing to the advancement of artificial intelligence technologies, with a strong focus on Python, AI/ML, and cloud platforms. 
+I look forward to exploring opportunities where I can apply my skills in these areas to drive innovation and growth, while continuing to expand my expertise and grow professionally.
+
+Feel free to reach out:
+📧 asgaurav9@gmail.com
+🔗 LinkedIn: [www.linkedin.com/in/asgaurav9](https://www.linkedin.com/in/gaurav-addala/)
